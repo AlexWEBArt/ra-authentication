@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-authentication/static/css/main.71588383.css",
+    "main.js": "/ra-authentication/static/js/main.a01e14c7.js",
+    "static/js/787.72359eac.chunk.js": "/ra-authentication/static/js/787.72359eac.chunk.js",
+    "index.html": "/ra-authentication/index.html",
+    "main.71588383.css.map": "/ra-authentication/static/css/main.71588383.css.map",
+    "main.a01e14c7.js.map": "/ra-authentication/static/js/main.a01e14c7.js.map",
+    "787.72359eac.chunk.js.map": "/ra-authentication/static/js/787.72359eac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71588383.css",
+    "static/js/main.a01e14c7.js"
+  ]
+}
