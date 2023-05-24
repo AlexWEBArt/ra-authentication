@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "repository": "https://github.com/ra-authentication.git",
-  "homepage": "https://alexwebart.github.io/ra-authenticationt",
+  "homepage": "https://alexwebart.github.io/ra-authentication",
   "author": "AlexWEBArt",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
