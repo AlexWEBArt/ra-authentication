@@ -38,7 +38,6 @@ export default function HeaderLogin() {
             setRequestData({ body: '', url: '' })
             setPermission(false)
         }
-        return () => setRequestData({ body: '', url: '' })
     }, [requestData, data, error, setToken, setPermission, setRequestData])
 
     const handleChange = (e) => {
